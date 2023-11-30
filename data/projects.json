@@ -56,7 +56,7 @@
     },
     {
         "screenshot": "./img/joel-tan-com-600x400desktop-afd10e.png",
-        "website": "https://www.joel-tan.com/joel-tan-com-600x400desktop-afd10e.png",
+        "website": "https://www.joel-tan.com/",
         "description": "Store progress of games and recommend games for him to play. Add details of games (progress, rating, checkpoints and images. Recommends a random game to play. ",
         "ui": true,
         "js": true,
