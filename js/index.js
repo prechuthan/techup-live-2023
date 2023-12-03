@@ -8,7 +8,7 @@ function convertProjectToHtmlCard(project) {
             />
             <a href="${project.website}">${project.website}</a>
             <p>
-            ${project.description}
+            ${project.headline}
             </p>
         </article>
     </div>
