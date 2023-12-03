@@ -22,6 +22,7 @@ article {
     margin: 10px 0;
     padding: 1.5rem 1.5rem;
     border-radius: 8px;
+    height: calc(100% - 20px);
 }
 
 article > img {
