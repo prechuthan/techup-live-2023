@@ -8,7 +8,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Brains Together",
+        "headline": "Help newly-discovered neuro divergents get help and advice.",
+        "category": "Health & Mental Health",
+        "developer": "Klinsen Soh"
     },
     {
         "screenshot": "./img/cannot-app-600x400desktop-b61e53.png",
@@ -19,7 +23,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Cannot.app",
+        "headline": "Diagnostic data about election cases that are logged. Created different survey forms and serving the logic for different forms.",
+        "category": "WoG Problems",
+        "developer": "Ng Song Yeong"
     },
     {
         "screenshot": "./img/icebreakerdowhat-com-600x400desktop-8afb19.png",
@@ -30,7 +38,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Ice Breaker Do What",
+        "headline": "Random suggestion for icebreakers.",
+        "category": "WoG Problems",
+        "developer": "Sarah Yip"
     },
     {
         "screenshot": "./img/snso-tools-space-600x400desktop-a706f6.png",
@@ -41,7 +53,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "SNSO Tools & Substack Summariser",
+        "headline": "Summarise Substack emails for the team via ChatGPT.",
+        "category": "Productivity",
+        "developer": "Simon Zhuang"
     },
     {
         "screenshot": "./img/stepsgowhere-net-600x400desktop-f4b880.png",
@@ -52,7 +68,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Steps Go Where",
+        "headline": "Get suggestions on where to walk to, to improve your steps count.",
+        "category": "Location Search & Recommenders",
+        "developer": "Sumana Prasad"
     },
     {
         "screenshot": "./img/joel-tan-com-600x400desktop-afd10e.png",
@@ -63,7 +83,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Game Recommender",
+        "headline": "Store progress of games and recommend games to play.",
+        "category": "Location Search & Recommenders",
+        "developer": "Tan Gin Long Joel"
     },
     {
         "screenshot": "./img/rekki-xyz-600x400desktop-0b71eb.png",
@@ -74,7 +98,11 @@
         "analytics": false,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Rekki",
+        "headline": "Find Japanese food in Japan - in English - using Google Translate and Google Maps.",
+        "category": "Location Search & Recommenders",
+        "developer": "Ang Poh Ye (Rebecca)"
     },
     {
         "screenshot": "./img/backtobp-one-600x400desktop-fd5210.png",
@@ -85,18 +113,26 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Back to Blood Pressure (BP)",
+        "headline": "Help elderly to monitor blood pressure at home. Suggest activities for them to do and food to cook/eat.",
+        "category": "Health & Mental Health",
+        "developer": "Han Shu Qing Joanna"
     },
     {
         "screenshot": "./img/digitraining-pro-600x400desktop-afc10f.png",
         "website": "https://www.digitraining.pro",
-        "description": "Help SPSLs figure out what their digital training needs and resources are. Based on levels of expertise and time available per week. Loads the resources from the database. ",
+        "description": "Help SPSLs figure out what their digital training needs and resources are. Based on levels of expertise and time available per week. Loads the resources from the database.",
         "ui": true,
         "js": true,
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Digi Training Needs",
+        "headline": "Figure out your digital training needs and resources, based on your level of expertise and time on hand.",
+        "category": "Training, HR & Career Support",
+        "developer": "Joseph Leong"
     },
     {
         "screenshot": "./img/seasonparking-shop-600x400desktop-dcc18a.png",
@@ -107,7 +143,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "MCI Season Parking Lots",
+        "headline": "Manage parking lots, prioritised based on seniority.",
+        "category": "WoG Problems",
+        "developer": "Loh Jia Yi"
     },
     {
         "screenshot": "./img/singaporenursingroom-com-600x400desktop-59787f.png",
@@ -118,7 +158,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Singapore Nursing Room Search",
+        "headline": "Search for public nursing rooms in Singapore and contribute more rooms.",
+        "category": "Location Search & Recommenders",
+        "developer": "Lum Xin Mun"
     },
     {
         "screenshot": "./img/paychecked-info-600x400desktop-eebaad.png",
@@ -129,7 +173,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Pay Checked (Govt)",
+        "headline": "Contribute pay practices of your tech workforce anonymously, for access to internal information on benchmarking.",
+        "category": "Training, HR & Career Support",
+        "developer": "Si Shi Ying, Jerlene"
     },
     {
         "screenshot": "./img/cafegowhere-co-600x400desktop-f924a1.png",
@@ -140,18 +188,26 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Cafe Go Where",
+        "headline": "Find a cafe to eat at based on region and district. ",
+        "category": "Location Search & Recommenders",
+        "developer": "Chiu Qi Yun Angela"
     },
     {
         "screenshot": "./img/nekotoinu-cc-600x400desktop-681e2b.png",
         "website": "https://www.nekotoinu.cc/",
-        "description": "<NAIS briefing - deferred> ",
+        "description": "Helps new pet owners find important places that they'll frequent throughout their pet ownership journey. Category buttons return dropdown menus for areas in Singapore. Each selected area returns a list for visitors to find a suitable place closest to them, depending on their preference.",
         "ui": true,
         "js": true,
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Neko To Inu (Pet Location Recommender)",
+        "headline": "Help new pet owners find important places they will frequent throughout their pet ownership journey.",
+        "category": "Location Search & Recommenders",
+        "developer": "Goh Ye Ling"
     },
     {
         "screenshot": "./img/chairgpt-pro-600x400desktop-f824c8.png",
@@ -162,7 +218,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "ChairGPT",
+        "headline": "Curate people with different diets and lifestyles together to make the dinner more dynamic.",
+        "category": "Personal Hobbies",
+        "developer": "Ng Ning Sing Grace"
     },
     {
         "screenshot": "./img/halalgowheresg-info-600x400desktop-da7603.png",
@@ -173,7 +233,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Halal Go Where SG",
+        "headline": "Find Halal restaurants in Singapore based on your preferred cuisine and area.",
+        "category": "Location Search & Recommenders",
+        "developer": "Siti Mardhiyyah Binte Mohd Idris"
     },
     {
         "screenshot": "./img/parkwhere-net-600x400desktop-d83151.png",
@@ -184,7 +248,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Park Where",
+        "headline": "Find out where to park most efficiently and cheaply. ",
+        "category": "Location Search & Recommenders",
+        "developer": "Tan Cheng Yong Desmond"
     },
     {
         "screenshot": "./img/taskprioritization-xyz-600x400desktop-a4d14c.png",
@@ -195,7 +263,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Task Prioritisation",
+        "headline": "Categorise tasks based on urgency and difficulty, and decide what to prioritise.",
+        "category": "Productivity",
+        "developer": "Tang Zhiliang Kenneth"
     },
     {
         "screenshot": "./img/dylanwkw-com-600x400desktop-58ad8c.png",
@@ -206,7 +278,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Bookmark - A Second Mind",
+        "headline": "Store bookmarks with links, descriptions and tags. ",
+        "category": "Productivity",
+        "developer": "Dylan Wang Kok Wee"
     },
     {
         "screenshot": "./img/stayhere-dowhat-ohemgee-net-600x400desktop-2d423c.png",
@@ -217,7 +293,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": false,
+        "name": "Stay Here do What",
+        "headline": "Collects free event information and displays upcoming events on Google Maps.",
+        "category": "Location Search & Recommenders",
+        "developer": "Geraldine Xu Binglu"
     },
     {
         "screenshot": "./img/introspeaction-com-600x400desktop-e08957.png",
@@ -228,7 +308,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Introspeaction",
+        "headline": "Introspect with these 10 questions from card decks. Reflect on your life. ",
+        "category": "Training, HR & Career Support",
+        "developer": "Kho Jin Cheng Mandon"
     },
     {
         "screenshot": "./img/pm-calculator-com-600x400desktop-665645.png",
@@ -239,7 +323,11 @@
         "analytics": false,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Man Hour Calculator",
+        "headline": "Calculate how many man hours are required for the project.",
+        "category": "WoG Problems",
+        "developer": "Lee Guoming"
     },
     {
         "screenshot": "./img/staging-pantrybooking-com-600x400desktop-03d4bc.png",
@@ -250,7 +338,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Pantry Booking",
+        "headline": "Book the pantry in 20 seconds.",
+        "category": "WoG Problems",
+        "developer": "Preshant Achuthan"
     },
     {
         "screenshot": "./img/grocerlisticated-site-600x400desktop-f45b0f.png",
@@ -261,7 +353,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Grocer Lisicated",
+        "headline": "List grocery items to buy, and to digitally browse grocery categories to try recalling what to buy.",
+        "category": "Productivity",
+        "developer": "Tan En En"
     },
     {
         "screenshot": "./img/msw-tools-600x400desktop-f3568a.png",
@@ -272,7 +368,11 @@
         "analytics": true,
         "ssl": false,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Medical Social Worker (MSW) Tools",
+        "headline": "Help MSWs assess clients' eligibility for financial assistance and collect documents required.",
+        "category": "Financial Assistance",
+        "developer": "Bernard Ng"
     },
     {
         "screenshot": "./img/airqualitychecker-net-600x400desktop-aa9375.png",
@@ -283,7 +383,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Air Quality Checker",
+        "headline": "Check and interpret PSI levels more easily.",
+        "category": "Environment",
+        "developer": "Chen Zhiming, Christopher"
     },
     {
         "screenshot": "./img/keeporthrow-com-600x400desktop-32f128.png",
@@ -294,7 +398,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Keep or Throw ",
+        "headline": "Better keep track of expiry dates of household items to reduce wastage.",
+        "category": "Environment",
+        "developer": "Goh Yu Chong"
     },
     {
         "screenshot": "./img/examrevisionplanner-com-600x400desktop-28560d.png",
@@ -305,7 +413,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Exam Revision Planner",
+        "headline": "Plans exams revision tasks and time required.",
+        "category": "Children",
+        "developer": "Ng Bee Ping Shirley"
     },
     {
         "screenshot": "./img/learnmusicalnotes-com-600x400desktop-9f69c7.png",
@@ -316,7 +428,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Learn Musical Notes",
+        "headline": "Sight-reading application for young learners to improve their accuracy and speed in reading musical notations over different octaves.",
+        "category": "Children",
+        "developer": "Ong Eng Hwee"
     },
     {
         "screenshot": "./img/shoplistapp-com-600x400desktop-9a67a8.png",
@@ -327,7 +443,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Shop List App",
+        "headline": "Share a common shopping list. ",
+        "category": "Productivity",
+        "developer": "Goh Hwee Chen"
     },
     {
         "screenshot": "./img/chatwitus-com-600x400desktop-e335d9.png",
@@ -338,7 +458,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Chat Wit Us",
+        "headline": "Self-schedule candidates' interview slots.",
+        "category": "Training, HR & Career Support",
+        "developer": "Karolyn Cheong Wen Ting"
     },
     {
         "screenshot": "./img/digicareer-coach-600x400desktop-87e048.png",
@@ -349,18 +473,26 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Digital Career Coaching ",
+        "headline": "Come up with a career coaching plan for your digital and technology career.",
+        "category": "Training, HR & Career Support",
+        "developer": "Lau Jia Jia Laureen"
     },
     {
         "screenshot": "./img/takestock-day-600x400desktop-570a23.png",
         "website": "https://takestock.day",
-        "description": "<Overseas leave>\nAllows users to create a list of things to buy. Strike off items that have been bought, and remove items from the list. Local storage.",
+        "description": "<Overseas leave> Allows users to create a list of things to buy. Strike off items that have been bought, and remove items from the list. Local storage.",
         "ui": true,
         "js": true,
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Take Stock",
+        "headline": "Create a list of things to buy. Strike off items that have been bought, and remove items from the list.",
+        "category": "Productivity",
+        "developer": "Noor Farihah Zainal Abidin"
     },
     {
         "screenshot": "./img/leaveplanner-online-600x400desktop-473800.png",
@@ -371,7 +503,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Leave Planner",
+        "headline": "Track the leave that you are planning to take.",
+        "category": "Productivity",
+        "developer": "Pan Yumo"
     },
     {
         "screenshot": "./img/vicfindbook-net-600x400desktop-a18e04.png",
@@ -382,7 +518,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Book Recommender",
+        "headline": "Find book recommendations based on preferred genre and author, generated by ChatGPT.",
+        "category": "Personal Hobbies",
+        "developer": "Song Ling Xuan Victoria"
     },
     {
         "screenshot": "./img/brewbuddy-site-600x400desktop-6613c6.png",
@@ -393,7 +533,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Brew Buddy",
+        "headline": "See how much water and how long to brew your coffee for.",
+        "category": "Personal Hobbies",
+        "developer": "Tay Kwan Hoe Terence"
     },
     {
         "screenshot": "./img/trades-arifshehab-com-600x400desktop-dedcb5.png",
@@ -404,7 +548,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Arif's Trades",
+        "headline": "Track financial assets across platforms with some analytics tools",
+        "category": "Personal Hobbies",
+        "developer": "Arif Shehabuddin"
     },
     {
         "screenshot": "./img/findmentor-co-600x400desktop-89b2f2.png",
@@ -415,7 +563,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Find Mentor",
+        "headline": "Find a mentor in a technical function you would like to explore.",
+        "category": "Training, HR & Career Support",
+        "developer": "Guek Shu Min"
     },
     {
         "screenshot": "./img/thefeelingjournal-com-600x400desktop-335019.png",
@@ -426,7 +578,11 @@
         "analytics": false,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "The Feeling Journal",
+        "headline": "Journalling app that supports emotional self-regulation. It allows users to identify their feelings, receive relevant journalling prompts, and track their entries and wellbeing over time.",
+        "category": "Health & Mental Health",
+        "developer": "Judy Hong Ruilan"
     },
     {
         "screenshot": "./img/grocerytracker-online-600x400desktop-318755.png",
@@ -437,7 +593,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Grocery Tracker",
+        "headline": "Track groceries to buy.",
+        "category": "Productivity",
+        "developer": "Nazrana Binte Zainuddin"
     },
     {
         "screenshot": "./img/isbonniehungry-com-600x400desktop-55bc56.png",
@@ -448,7 +608,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Is Bonnie Hungry? (Cat Feeder Tracker)",
+        "headline": "Check whether the cat needs more food.",
+        "category": "Personal Hobbies",
+        "developer": "Tan Jingxian Shanny"
     },
     {
         "screenshot": "./img/modernmulans-com-600x400desktop-a7ac14.png",
@@ -459,7 +623,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Modern Mulans ",
+        "headline": "Help women navaigate different stages in life.",
+        "category": "Personal Hobbies",
+        "developer": "Chiang Lihui"
     },
     {
         "screenshot": "./img/mindergap-com-600x400desktop-83ffe8.png",
@@ -470,7 +638,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Minder Gap",
+        "headline": "Mental health directory that recommends Singapore-based resources according to your needs.",
+        "category": "Health & Mental Health",
+        "developer": "Chong Wei-Wen Megan"
     },
     {
         "screenshot": "./img/kidexpensetracker-com-600x400desktop-c44a02.png",
@@ -481,7 +653,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Kid Expense Tracker",
+        "headline": "Tracks expenses for your kid.",
+        "category": "Children",
+        "developer": "Deborah Goh Hui Hui"
     },
     {
         "screenshot": "./img/checkthescam-com-600x400desktop-084f20.png",
@@ -492,7 +668,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Check The Scam",
+        "headline": "Crowd-sourced suspected scam directory, including filters by category, platform and number of submissions.",
+        "category": "Anti-Scam",
+        "developer": "Joyce Sin Jie Yin"
     },
     {
         "screenshot": "./img/asimplelist-com-600x400desktop-cb9606.png",
@@ -503,7 +683,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "A Simple List",
+        "headline": "Create a simple list. Send the unique list URL to your friends, to also add to the list.",
+        "category": "Productivity",
+        "developer": "Lai Kai Bin"
     },
     {
         "screenshot": "./img/whatsnack-click-600x400desktop-fb4113.png",
@@ -514,7 +698,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "What Snack",
+        "headline": "Submit suggestions for office snacks.",
+        "category": "WoG Problems",
+        "developer": "Nee Yihan"
     },
     {
         "screenshot": "./img/halaleats-asia-600x400desktop-884152.png",
@@ -525,7 +713,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Halal Eats",
+        "headline": "Get Halal food recommendations by region and cuisine.",
+        "category": "Location Search & Recommenders",
+        "developer": "Ruzanna Binte Abdul Razak"
     },
     {
         "screenshot": "./img/buyorbuynot-com-600x400desktop-dec961.png",
@@ -536,7 +728,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Buy or Buy Not",
+        "headline": "Help to decide whether or not to buy something. ",
+        "category": "Personal Hobbies",
+        "developer": "Chng Ya Wen"
     },
     {
         "screenshot": "./img/decideforme-today-600x400desktop-7e6950.png",
@@ -547,7 +743,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Decide For Me Today ",
+        "headline": "Make a random decision when you're undecided.",
+        "category": "Productivity",
+        "developer": "Goh Shi Jia Amanda"
     },
     {
         "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
@@ -558,7 +758,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Tart Shop Website",
+        "headline": "Buy tarts with peak period pricing on this online shop.",
+        "category": "Personal Hobbies",
+        "developer": "Huang Juejing"
     },
     {
         "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
@@ -569,7 +773,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "",
+        "headline": "",
+        "category": "",
+        "developer": ""
     },
     {
         "screenshot": "./img/jiojalan-com-600x400desktop-374655.png",
@@ -580,7 +788,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Activities Recommender",
+        "headline": "Recommends activities to do that day.",
+        "category": "Children",
+        "developer": "Ang Kang Lin Sean"
     },
     {
         "screenshot": "./img/zrhomework-com-600x400desktop-08fab2.png",
@@ -591,7 +803,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "ZR's Homework",
+        "headline": "Check what the user needs to clear.",
+        "category": "WoG Problems",
+        "developer": "Ang Zhongren"
     },
     {
         "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
@@ -602,7 +818,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "What This Means? Acronym Finder",
+        "headline": "Figure out what the acronym means.",
+        "category": "WoG Problems",
+        "developer": "Ethan Teo Yi De"
     },
     {
         "screenshot": "./img/snackandrun-com-600x400desktop-d82758.png",
@@ -613,7 +833,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Snack and Run",
+        "headline": "Figure out how much you need to run to work off your snack.",
+        "category": "Personal Hobbies",
+        "developer": "Li Zheng"
     },
     {
         "screenshot": "./img/virtual-usher-co-600x400desktop-c52510.png",
@@ -624,7 +848,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Virtual Usher",
+        "headline": "View attendance for your meeting as a percentage.",
+        "category": "WoG Problems",
+        "developer": "Low Hui Ee"
     },
     {
         "screenshot": "./img/bobaboard-co-600x400desktop-5d1110.png",
@@ -635,7 +863,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Bobaboard",
+        "headline": "Real-time interactive digital recognition board that enables officers to express appreciation for each other, fostering a positive work environment and promoting collaboration and teamwork.",
+        "category": "WoG Problems",
+        "developer": "Puah Shi Li (Clyda)"
     },
     {
         "screenshot": "./img/ngep-dashboard-abilashsivalingam-com-600x400desktop-b3ebd7.png",
@@ -646,7 +878,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "NGEP Dashboard",
+        "headline": "See progress of roll-outs on a dashboard.",
+        "category": "Productivity",
+        "developer": "Abilash Sivalingam"
     },
     {
         "screenshot": "./img/naptrack-growingpancakes-com-600x400desktop-0c16db.png",
@@ -657,7 +893,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Nap Tracker",
+        "headline": "Tracks your little one's naps.",
+        "category": "Children",
+        "developer": "Hong Jun Yang Benjamin"
     },
     {
         "screenshot": "./img/hangry-go-where-com-600x400desktop-a8950a.png",
@@ -668,18 +908,41 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Hangry Go Where",
+        "headline": "Get ideas on where to eat, marked out for you on Google Maps.",
+        "category": "Location Search & Recommenders",
+        "developer": "Shermin Ho"
     },
     {
         "screenshot": "./img/govlinkchecker-com-600x400desktop-1ff1bf.png",
         "website": "https://govlinkchecker.com",
-        "description": "Checks whether a link is legit or not when the link is submitted. ",
+        "description": "Checks whether a link is legit or not when the link is submitted.",
         "ui": true,
         "js": true,
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Gov Link Checker",
+        "headline": "Check trusted sites by GovSG.",
+        "category": "Anti-Scam",
+        "developer": "Tan Limin"
+    },
+    {
+        "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
+        "website": "https://tngseokhieng.github.io/timefortea/",
+        "description": "See recommendations on which cafe to eat at.",
+        "ui": true,
+        "js": true,
+        "analytics": true,
+        "ssl": true,
+        "domain": true,
+        "db": false,
+        "name": "Time for Tea",
+        "headline": "See recommendations on which cafe to eat at.",
+        "category": "Location Search & Recommenders",
+        "developer": "Tng Seok Hieng"
     },
     {
         "screenshot": "./img/milesvscashbacksg-xyz-600x400desktop-f8f102.png",
@@ -690,7 +953,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Miles vs Cashback",
+        "headline": "Unlock the full potential of your spending with this miles vs cashback calculator.",
+        "category": "Personal Finance",
+        "developer": "Chan QY"
     },
     {
         "screenshot": "./img/savemyinvite-app-600x400desktop-a6d33a.png",
@@ -701,7 +968,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Save My Invite",
+        "headline": "Create and share event invites with a unique URL.",
+        "category": "Productivity",
+        "developer": "Chong Jia Ling"
     },
     {
         "screenshot": "./img/laujingpeng-com-600x400desktop-deb551.png",
@@ -712,7 +983,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "My MQTT Client",
+        "headline": "Send and receieve MQTT messages using this client.",
+        "category": "Productivity",
+        "developer": "Dexter Lau"
     },
     {
         "screenshot": "./img/helpcomehere-com-600x400desktop-3512d0.png",
@@ -723,7 +998,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Help Come Here",
+        "headline": "Figure out what financial schemes might be useful for you based on your profile and needs.",
+        "category": "Financial Assistance ",
+        "developer": "Goh Kyi Yeung"
     },
     {
         "screenshot": "./img/seccy-app-600x400desktop-733734.png",
@@ -734,7 +1013,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Seccy App",
+        "headline": "Create and view the progress of meetings.",
+        "category": "WoG Problems",
+        "developer": "Govind Shankar Ganesan"
     },
     {
         "screenshot": "./img/fussfreetour-onrender-com-600x400desktop-5a4e44.png",
@@ -745,7 +1028,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Fuss Free Tour",
+        "headline": "Find places to go for your fuss-free impromptu travel based on your travel group profile.",
+        "category": "Location Search & Recommenders",
+        "developer": "Lee Wei Liang"
     },
     {
         "screenshot": "./img/arrowstarheart-github-io-600x400desktop-1d3c6e.png",
@@ -756,7 +1043,11 @@
         "analytics": true,
         "ssl": true,
         "domain": false,
-        "db": false
+        "db": false,
+        "name": "",
+        "headline": "",
+        "category": "",
+        "developer": ""
     },
     {
         "screenshot": "./img/ccrewards-pro-600x400desktop-7d2bc7.png",
@@ -767,7 +1058,11 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": true
+        "db": true,
+        "name": "Credit Card Rewards",
+        "headline": "Citibank credit card rewards catalog that anyone can easily search.",
+        "category": "Personal Finance",
+        "developer": "Bernice Teo Feng Min"
     },
     {
         "screenshot": "./img/lumnut-art-600x400desktop-1b603e.png",
@@ -778,7 +1073,26 @@
         "analytics": true,
         "ssl": true,
         "domain": true,
-        "db": false
+        "db": false,
+        "name": "Lumnut Photography Portfolio",
+        "headline": "An online portfolio, a curated collection of timeless photography. From weddings to events and portraits, witness the diverse range of moments captured with artistry and passion.",
+        "category": "Personal Hobbies",
+        "developer": "Joseph Lum Yi Yang "
+    },
+    {
+        "screenshot": "./img/whichfurnitureshoptogo-com-600x400desktop-1fc949.png",
+        "website": "https://whichfurnitureshoptogo.com",
+        "description": "Find the right furniture shop for you.",
+        "ui": true,
+        "js": true,
+        "analytics": true,
+        "ssl": true,
+        "domain": true,
+        "db": false,
+        "name": "Which Furniture Shop To Go",
+        "headline": "Find the right furniture shop for you.",
+        "category": "Location Search & Recommenders",
+        "developer": "Low Zi Xuan Michelle"
     },
     {
         "screenshot": "./img/ngrenae-github-io-600x400desktop-df7a10.png",
@@ -789,6 +1103,25 @@
         "analytics": false,
         "ssl": false,
         "domain": false,
-        "db": false
+        "db": false,
+        "name": "Find Playdates For Your Kids",
+        "headline": "Finds playmates for your kid.",
+        "category": "Children",
+        "developer": "Ng Siok Peng (Renae)"
+    },
+    {
+        "screenshot": "./img/ratemylibrary-club-600x400desktop-e7a343.png",
+        "website": "https://www.ratemylibrary.club/",
+        "description": "A website for parents to find playdates easily.",
+        "ui": true,
+        "js": true,
+        "analytics": false,
+        "ssl": false,
+        "domain": false,
+        "db": false,
+        "name": "Rate My Library",
+        "headline": "Rate your library.",
+        "category": "Location Search & Recommenders",
+        "developer": "Pang Yin Fun Geraldine"
     }
 ]
