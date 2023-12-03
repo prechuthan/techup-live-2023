@@ -7,7 +7,9 @@ function convertProjectToHtmlCard(project) {
             alt="Screenshot of ${project.website}"
             />
             <strong>${project.name}</strong>
-            <a href="${project.website}">${project.website}</a>
+            <a href="${removeTrailingSlash(
+              project.website
+            )}">${removeTrailingSlash(project.website)}</a>
             <p>${project.headline}</p>
         </article>
     </div>
@@ -16,8 +18,29 @@ function convertProjectToHtmlCard(project) {
   $(htmlCard).appendTo($("#techup-projects"));
 }
 
+function removeTrailingSlash(url) {
+  return url.endsWith("/") ? url.slice(0, -1) : url;
+}
+
+function sortByNameAscending(dataArray) {
+  return dataArray.sort((a, b) => {
+    const nameA = a.name.toUpperCase();
+    const nameB = b.name.toUpperCase();
+
+    if (nameA < nameB) {
+      return -1;
+    }
+    if (nameA > nameB) {
+      return 1;
+    }
+
+    return 0;
+  });
+}
+
 $(async function () {
   const projects = await $.getJSON("../data/projects.json");
+  const sortedProjects = sortByNameAscending(projects);
 
   await projects.map(convertProjectToHtmlCard);
 });

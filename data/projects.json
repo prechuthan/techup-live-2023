@@ -765,21 +765,6 @@
         "developer": "Huang Juejing"
     },
     {
-        "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
-        "website": "https://tinarplayground.com",
-        "description": "Calls openAI API to generate meal plans and grocery. ",
-        "ui": true,
-        "js": true,
-        "analytics": true,
-        "ssl": true,
-        "domain": true,
-        "db": false,
-        "name": "",
-        "headline": "",
-        "category": "",
-        "developer": ""
-    },
-    {
         "screenshot": "./img/jiojalan-com-600x400desktop-374655.png",
         "website": "https://www.jiojalan.com/",
         "description": "Based on location and preferences. find location and preferences and generate things to do. ",
@@ -1033,21 +1018,6 @@
         "headline": "Find places to go for your fuss-free impromptu travel based on your travel group profile.",
         "category": "location-search-recommenders",
         "developer": "Lee Wei Liang"
-    },
-    {
-        "screenshot": "./img/arrowstarheart-github-io-600x400desktop-1d3c6e.png",
-        "website": "https://arrowstarheart.github.io",
-        "description": "To-do list",
-        "ui": true,
-        "js": true,
-        "analytics": true,
-        "ssl": true,
-        "domain": false,
-        "db": false,
-        "name": "",
-        "headline": "",
-        "category": "",
-        "developer": ""
     },
     {
         "screenshot": "./img/ccrewards-pro-600x400desktop-7d2bc7.png",
