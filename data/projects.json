@@ -302,7 +302,7 @@
     {
         "screenshot": "./img/introspeaction-com-600x400desktop-e08957.png",
         "website": "https://introspeaction.com/",
-        "description": "Asks questions for introspection and user can fill in the answers for 10 questions in the card deck. Get different questions from the card deck to reshuffle. Target audience is students - user test in SMU. ",
+        "description": "Asks questions for introspection and user can fill in the answers for 10 questions in the card deck. Get different questions from the card deck to reshuffle. Target audience is students - user test in SMU.",
         "ui": true,
         "js": true,
         "analytics": true,
@@ -310,7 +310,7 @@
         "domain": true,
         "db": true,
         "name": "Introspeaction",
-        "headline": "Introspect with these 10 questions from card decks. Reflect on your life. ",
+        "headline": "Randomized question prompts for students/people to use to introspect deep within themselves and pen down their personal and career interests.",
         "category": "Training, HR & Career Support",
         "developer": "Kho Jin Cheng Mandon"
     },
@@ -475,7 +475,7 @@
         "domain": true,
         "db": true,
         "name": "Digital Career Coaching ",
-        "headline": "Come up with a career coaching plan for your digital and technology career.",
+        "headline": "Come up with a career coaching plan for your digital career.",
         "category": "Training, HR & Career Support",
         "developer": "Lau Jia Jia Laureen"
     },
