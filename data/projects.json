@@ -795,21 +795,6 @@
         "developer": "Ang Zhongren"
     },
     {
-        "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
-        "website": "https://www.whatthismeans.xyz",
-        "description": "Find out the acronym. Calls DB to show the acronym. Can add and submit to an acronym. Mongo & heroku. ",
-        "ui": true,
-        "js": true,
-        "analytics": true,
-        "ssl": true,
-        "domain": true,
-        "db": true,
-        "name": "What This Means? Acronym Finder",
-        "headline": "Figure out what the acronym means.",
-        "category": "wog-problems",
-        "developer": "Ethan Teo Yi De"
-    },
-    {
         "screenshot": "./img/snackandrun-com-600x400desktop-d82758.png",
         "website": "https://www.snackandrun.com/",
         "description": "For those who wanted to know how much they need to run to justify those calories from a snack. Also for those curious about how others choose, if that helps their decision. Hosted on Heroku and DB on MongoDB. ",
@@ -913,21 +898,6 @@
         "headline": "Check trusted sites by GovSG.",
         "category": "anti-scam",
         "developer": "Tan Limin"
-    },
-    {
-        "screenshot": "https://fakeimg.pl/600x400?text=No+Image",
-        "website": "https://tngseokhieng.github.io/timefortea/",
-        "description": "See recommendations on which cafe to eat at.",
-        "ui": true,
-        "js": true,
-        "analytics": true,
-        "ssl": true,
-        "domain": true,
-        "db": false,
-        "name": "Time for Tea",
-        "headline": "See recommendations on which cafe to eat at.",
-        "category": "location-search-recommenders",
-        "developer": "Tng Seok Hieng"
     },
     {
         "screenshot": "./img/milesvscashbacksg-xyz-600x400desktop-f8f102.png",
