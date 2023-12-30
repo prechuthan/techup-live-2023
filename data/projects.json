@@ -1063,5 +1063,20 @@
         "headline": "Rate your library.",
         "category": "location-search-recommenders",
         "developer": "Pang Yin Fun Geraldine"
+    },
+    {
+        "screenshot": "./img/dashboardsg-augalice-com-600x400desktop-d3724c.png",
+        "website": "https://dashboardsg.augalice.com/",
+        "description": "Locate the nearest metrology station using your GPS, then pulls the required data.",
+        "ui": true,
+        "js": true,
+        "analytics": true,
+        "ssl": true,
+        "domain": true,
+        "db": false,
+        "name": "DashBoardSG",
+        "headline": "Locate the nearest metrology station using your GPS, then pulls the required data.",
+        "category": "environment",
+        "developer": "Augustine Lee"
     }
 ]
